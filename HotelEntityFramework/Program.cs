@@ -10,6 +10,7 @@ namespace HotelEntityFramework
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
