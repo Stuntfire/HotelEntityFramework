@@ -27,5 +27,12 @@ namespace HotelEntityFramework
         public virtual Room Room { get; set; }
 
         public virtual Guest Guest { get; set; }
+
+        public override string ToString()
+        {
+            return base.ToString();
+        }
+
     }
+
 }
